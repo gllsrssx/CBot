@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HuLVwAiERVRekvjTzxfhgzv2isl3Jv+N4bRZTwxXNQnM5lBoI4QniTFhTfzdqJUi7sP5lEBfr4gr8Jn7NII6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gilles\\OneDrive\\Documenten\\cAlgo\\Sources\\Robots\\Grid\\Grid\\Grid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gilles\\.nuget\\packages\\ctrader.automate\\1.0.8\\ctrader.automate.1.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
